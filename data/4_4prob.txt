@@ -1,0 +1,5 @@
+[Theory{partialSet=[Set{mineCount=1, unShared=2, notShared=0, flagShared=0, isBase=true}, Set{mineCount=2, unShared=2, notShared=0, flagShared=0, isBase=false}, Set{mineCount=4, unShared=1, notShared=0, flagShared=0, isBase=false}], toFlag='0, 0
+2, 0
+4, 1
+, nTested='10, successRate='0.6}
+]

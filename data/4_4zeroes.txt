@@ -1,0 +1,54 @@
+[Theory{partialSet=[Set{mineCount=1, unShared=2, notShared=0, flagShared=0, isBase=true}, Set{mineCount=2, unShared=2, notShared=0, flagShared=0, isBase=false}, Set{mineCount=3, unShared=1, notShared=0, flagShared=0, isBase=false}], toFlag='0, 0
+2, 0
+3, 1
+, nTested='10, successRate='0.0}
+, Theory{partialSet=[Set{mineCount=1, unShared=2, notShared=0, flagShared=0, isBase=true}, Set{mineCount=2, unShared=2, notShared=0, flagShared=0, isBase=false}, Set{mineCount=3, unShared=1, notShared=0, flagShared=0, isBase=false}], toFlag='0, 0
+2, 0
+3, 0
+, nTested='10, successRate='0.0}
+, Theory{partialSet=[Set{mineCount=1, unShared=2, notShared=0, flagShared=0, isBase=true}, Set{mineCount=2, unShared=2, notShared=0, flagShared=0, isBase=false}, Set{mineCount=4, unShared=1, notShared=0, flagShared=0, isBase=false}], toFlag='0, 0
+2, 0
+4, 0
+, nTested='10, successRate='0.0}
+, Theory{partialSet=[Set{mineCount=2, unShared=1, notShared=0, flagShared=1, isBase=true}, Set{mineCount=1, unShared=0, notShared=0, flagShared=1, isBase=false}, Set{mineCount=2, unShared=1, notShared=0, flagShared=1, isBase=false}, Set{mineCount=3, unShared=1, notShared=0, flagShared=0, isBase=false}], toFlag='0, 0
+1, 0
+2, 0
+3, 0
+, nTested='10, successRate='0.0}
+, Theory{partialSet=[Set{mineCount=2, unShared=2, notShared=0, flagShared=0, isBase=true}, Set{mineCount=2, unShared=2, notShared=0, flagShared=0, isBase=false}, Set{mineCount=3, unShared=1, notShared=0, flagShared=0, isBase=false}], toFlag='0, 0
+2, 1
+3, 0
+, nTested='10, successRate='0.0}
+, Theory{partialSet=[Set{mineCount=2, unShared=2, notShared=0, flagShared=0, isBase=true}, Set{mineCount=2, unShared=2, notShared=0, flagShared=0, isBase=false}, Set{mineCount=3, unShared=1, notShared=0, flagShared=0, isBase=false}], toFlag='0, 0
+2, 0
+3, 1
+, nTested='10, successRate='0.0}
+, Theory{partialSet=[Set{mineCount=2, unShared=2, notShared=0, flagShared=0, isBase=true}, Set{mineCount=2, unShared=2, notShared=0, flagShared=0, isBase=false}, Set{mineCount=3, unShared=1, notShared=0, flagShared=0, isBase=false}], toFlag='0, 0
+2, 0
+3, 0
+, nTested='10, successRate='0.0}
+, Theory{partialSet=[Set{mineCount=2, unShared=2, notShared=0, flagShared=0, isBase=true}, Set{mineCount=3, unShared=1, notShared=0, flagShared=0, isBase=false}, Set{mineCount=3, unShared=2, notShared=0, flagShared=0, isBase=false}], toFlag='0, 0
+3, 0
+3, 0
+, nTested='10, successRate='0.0}
+, Theory{partialSet=[Set{mineCount=2, unShared=2, notShared=0, flagShared=0, isBase=true}, Set{mineCount=3, unShared=1, notShared=0, flagShared=0, isBase=false}, Set{mineCount=3, unShared=2, notShared=0, flagShared=0, isBase=false}], toFlag='0, 0
+3, 0
+3, 1
+, nTested='10, successRate='0.0}
+, Theory{partialSet=[Set{mineCount=2, unShared=2, notShared=0, flagShared=0, isBase=true}, Set{mineCount=3, unShared=2, notShared=0, flagShared=0, isBase=false}, Set{mineCount=4, unShared=1, notShared=0, flagShared=0, isBase=false}], toFlag='0, 0
+3, 0
+4, 1
+, nTested='10, successRate='0.0}
+, Theory{partialSet=[Set{mineCount=2, unShared=2, notShared=0, flagShared=0, isBase=true}, Set{mineCount=3, unShared=2, notShared=0, flagShared=0, isBase=false}, Set{mineCount=4, unShared=1, notShared=0, flagShared=0, isBase=false}], toFlag='0, 0
+3, 1
+4, 0
+, nTested='10, successRate='0.0}
+, Theory{partialSet=[Set{mineCount=2, unShared=2, notShared=0, flagShared=0, isBase=true}, Set{mineCount=3, unShared=2, notShared=0, flagShared=0, isBase=false}, Set{mineCount=4, unShared=1, notShared=0, flagShared=0, isBase=false}], toFlag='0, 0
+3, 0
+4, 0
+, nTested='10, successRate='0.0}
+, Theory{partialSet=[Set{mineCount=3, unShared=1, notShared=0, flagShared=2, isBase=true}, Set{mineCount=2, unShared=0, notShared=0, flagShared=2, isBase=false}, Set{mineCount=3, unShared=1, notShared=0, flagShared=1, isBase=false}], toFlag='0, 0
+2, 0
+3, 0
+, nTested='10, successRate='0.0}
+]
