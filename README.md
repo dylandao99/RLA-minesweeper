@@ -26,3 +26,6 @@ It scans a Minesweeper board for subsets of numbers, generates all possible mine
 * First move is never a mine
 * 3x3 box around first click is always clear
 
+### Planned Features
+* Probability analysis
+* Save learned rules after program closes
